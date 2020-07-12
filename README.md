@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a PhD Student at TU Wien. 
+- I'm working on 6D pose estimation of objects for robot and mixed reality applications
+
+
 <!--
 **kirumang/kirumang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

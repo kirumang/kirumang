@@ -2,21 +2,23 @@
 
 - a PhD Student at TU Wien, Vienna, Austria
 - working on 6D pose estimation of objects for robot and mixed reality applications
+- working on self-supervised learning of object from real environments
 
 ### Main interests
-- Computer Vision and Robot vision: pose estimation of objects, object recognition
+- Computer Vision and Robot vision: pose estimation of objects, object recognition, object modeling/learning
 - Robot programming: ROS
 
-### Languages and Libraries
+### Languages, Libraries, and Tools
 - Python, C++, C#
-- Tensorflow, Keras, Pytorch
+- Tensorflow, Keras, Pytorch, PCL, OpenCV, Scipy, Pybullet
+- Blender, Catia
 
 ### How to reach me
 - linkedin: https://www.linkedin.com/in/kirumang/
 - facebook: https://www.facebook.com/kirumang
 - email: kirumang@gmail.com
 - instagram: kirumang
-- whatever: try 'kirumang'
+- anything elese: try 'kirumang'
 
 <!--
 **kirumang/kirumang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

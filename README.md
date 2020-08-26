@@ -2,7 +2,7 @@
 
 - a PhD Student at TU Wien, Vienna, Austria
 - working on 6D pose estimation of objects for robot and mixed reality applications
-- working on self-supervised learning of object from real environments
+- working on self-supervised learning of objects from real environments
 
 ### Main interests
 - Computer Vision and Robot vision: pose estimation of objects, object recognition, object modeling/learning

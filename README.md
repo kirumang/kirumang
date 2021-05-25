@@ -1,11 +1,11 @@
 ### I'm
 
-- a PhD Student at TU Wien, Vienna, Austria
-- working on 6D pose estimation of objects for robot and mixed reality applications
-- working on self-supervised learning of objects from real environments
+- an Applied Scientist at Robotics AI, Amazon
+- working on object perception and recognition for robot manipulation tasks
+  (e.g., segmentation, pose estimation, grasp generation/planning, general 3D vision stuff)
 
 ### Main interests
-- Computer Vision and Robot vision: pose estimation of objects, object recognition, object modeling/learning
+- Computer Vision and Robot vision: pose estimation of objects, object recognition, object modeling/learning, manipulation
 - Robot programming: ROS
 
 ### Languages, Libraries, and Tools
